@@ -16,15 +16,10 @@ Simple and clean Streamlit dashboard
 
 🛠 Tech Stack
 
-Python
+HTML
 
-Streamlit
-
-Requests
-
-Matplotlib
-
-LeetCode GraphQL API
+ CSS
+JS
 
 📊 How It Works
 
