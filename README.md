@@ -1,6 +1,6 @@
 LeetCode Progress Tracker (API-Based)
 
-A Python-based web application that fetches and visualizes LeetCode user statistics using the LeetCode GraphQL API. The application allows users to enter a LeetCode username and view detailed problem-solving insights in an interactive dashboard.
+This  is simple web application .using  the HTML ,css,js used to fetches and visualizes LeetCode user statistics using the LeetCode GraphQL API. The application allows users to enter a LeetCode username and view detailed problem-solving insights in an interactive dashboard.
 
 🚀 Features
 
