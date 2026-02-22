@@ -12,7 +12,7 @@ Interactive bar chart visualization
 
 Real-time data using LeetCode GraphQL API
 
-Simple and clean Streamlit dashboard
+Simple and clean Streamlit dashboard and etc
 
 🛠 Tech Stack
 
